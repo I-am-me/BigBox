@@ -1,8 +1,6 @@
 # Marlin 3D Printer Firmware
 This is a fork from [Marlin Firmware](https://github.com/MarlinFirmware/Marlin).
-
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
-
 Marlin is published under the [GPL license](/LICENSE).
 
 ## Configuration for BigBox
