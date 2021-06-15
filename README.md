@@ -4,7 +4,7 @@ Additional documentation can be found at the [Marlin Home Page](https://marlinfw
 Marlin is published under the [GPL license](/LICENSE).
 
 ## Configuration for BigBox
-This is a Marlin 2.0.9 configuration for a BigBox with a BLTouch and TMC2130 drivers on X, Y, Z and E.
+This is a Marlin 2.0.9 configuration for a BigBox Pro with a BLTouch and TMC2130 drivers on X, Y, Z and E.
 
 The wiring should follow this wiring diagram in order to work with this configuration. If your implementation is different please modify the pins_RUMBA.h file and/or configuration files.
 
