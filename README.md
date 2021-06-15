@@ -6,7 +6,8 @@ Additional documentation can be found at the [Marlin Home Page](https://marlinfw
 This is a Marlin 2.0.9 configuration for a BigBox with BLTouch and TMC2130 drivers on X, Y, Z and E.
 
 The wiring should follow this wiring diagram in order to work with this configuration. If your implementation is different please modify the pins_RUMBA.h file and/or configuration files.
-<img align="middle" width=300 src="wiring.png" />
+
+<img src="wiring.png" width="90%"></img> 
 
 ## Responsability
 Please review the firmware before installing it on your board. This is provided as a guideline but may not work with your printer.
