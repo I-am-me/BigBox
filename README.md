@@ -4,7 +4,8 @@ Additional documentation can be found at the [Marlin Home Page](https://marlinfw
 Marlin is published under the [GPL license](/LICENSE).
 
 ## Configuration for BigBox
-This is a Marlin 2.0.9 configuration for a BigBox Pro with a BLTouch and TMC2130 drivers on X, Y, Z and E.
+This is a Marlin 2.0.9.3 configuration for a BigBox Pro with a Hemera Revo Extruder, a BLTouch and TMC2130 drivers on X, Y, Z and E.
+The printable files for the Hemera conversion can be found here : https://www.printables.com/model/200816-bigbox-hemera-with-mgn12h-linear-rail
 
 The wiring should follow this wiring diagram in order to work with this configuration. If your implementation is different please modify the pins_RUMBA.h file and/or configuration files.
 
@@ -16,7 +17,5 @@ Please review the firmware before installing it on your board. This is provided 
 Things to watch out for :
 - Motor direction
 - Axis limits
-- E-steps (if you have a different extruder)
-- 
 
 I am not responsible for any damages or harm cause by the use of this firmware.
