@@ -12,4 +12,11 @@ The wiring should follow this wiring diagram in order to work with this configur
 
 ## Responsability
 Please review the firmware before installing it on your board. This is provided as a guideline but may not work with your printer.
+
+Things to watch out for :
+- Motor direction
+- Axis limits
+- E-steps (if you have a different extruder)
+- 
+
 I am not responsible for any damages or harm cause by the use of this firmware.
